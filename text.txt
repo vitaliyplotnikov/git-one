@@ -5,3 +5,5 @@ My first commit
 Changes
 Another line
 NEW IN MASTER
+new line feature-c
+feature-c
