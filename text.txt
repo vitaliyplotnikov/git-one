@@ -4,3 +4,4 @@ My first commit
 
 Changes
 Another line
+NEW IN MASTER
