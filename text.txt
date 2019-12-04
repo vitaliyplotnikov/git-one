@@ -7,3 +7,6 @@ Another line
 NEW IN MASTER
 new line feature-c
 feature-c
+
+-----------------------
+I've added super new feature here
