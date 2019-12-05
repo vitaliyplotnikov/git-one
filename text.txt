@@ -10,3 +10,5 @@ feature-c
 
 -----------------------
 I've added super new feature here
+----------------------------------
+From IDE
