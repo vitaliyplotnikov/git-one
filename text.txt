@@ -12,3 +12,7 @@ feature-c
 I've added super new feature here
 ----------------------------------
 From IDE
+------------------------------
+I want another branch and pull request
+--------------------------------------
+IT IS FOR PULL REQUEST
